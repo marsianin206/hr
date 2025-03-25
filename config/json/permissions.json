@@ -1,0 +1,27 @@
+{
+  "description": "Список пользователей с их разрешениями для бота Highrise.",
+  "notes": {
+    "permissions": {
+      "print": "Разрешение на вывод информации.",
+      "teleport": "Разрешение на телепортацию."
+    }
+  },
+  "permissions": [
+    {
+      "user_id": "62e86343d99a0bb4471669e6",
+      "username": "X.FEAR",
+      "permissions": [
+        "print",
+        "teleport"
+      ]
+    },
+    {
+      "user_id": "62e86343d99a0bb4471669e6",
+      "username": "X.FEAR",
+      "permissions": [
+        "print",
+        "teleport"
+      ]
+    }
+  ]
+}
