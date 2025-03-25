@@ -1,0 +1,17 @@
+{
+  "name": "highrise-javascript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iHsein",
+  "license": "IMT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "highrise-js-sdk": "^1.2.1",
+    "path": "^0.12.7"
+  }
+}
